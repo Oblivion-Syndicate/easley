@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <RootNamespace>Easley.API</RootNamespace>
+    <AssemblyName>Easley.API</AssemblyName>
+    <PackageId>Easley.API</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Maverick Liberty</Authors>
+    <Company>Oblivion Syndicate</Company>
+    <Description>Public SDK for Easley Networking</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
