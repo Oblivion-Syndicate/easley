@@ -1,6 +1,4 @@
-﻿namespace API;
-
-public class Class1
+﻿namespace Easley.API
 {
-
+    
 }
